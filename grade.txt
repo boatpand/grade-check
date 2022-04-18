@@ -1,0 +1,6 @@
+  Course Code  Course Title                                       Grade      Credit
+-------------  -------------------------------------------------  -------  --------
+     01204453  Web Information Retrieval and Mining               N               3
+     01204492  Career and Social Skill Development Laboratory II  N               1
+     01204499  Computer Engineering Project                       N               2
+     01358101  Elementary Japanese I                              N               3

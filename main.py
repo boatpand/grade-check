@@ -11,7 +11,7 @@ def browser():
     
     ### private data ###
     web.type('', number = 1) # StudentID
-    web.press(web.Key.TAB + 'Boat2543!') # Password
+    web.press(web.Key.TAB + '') # Password
     ### private data ###
     
     web.press(web.Key.ENTER)
